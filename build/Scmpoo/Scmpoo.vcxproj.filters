@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Projects\Scmpoo\Scmpoo\Scmpoo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Scmpoo\Scmpoo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Projects\Scmpoo\Scmpoo\Scmpoo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{28845C35-28E6-3196-AF77-29CA901137E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{061203B7-4EE0-39A2-8A31-8DC244B2B08F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Scmpoo\100.ico" />
+    <Image Include="..\..\Scmpoo\101.bmp" />
+    <Image Include="..\..\Scmpoo\102.bmp" />
+    <Image Include="..\..\Scmpoo\103.bmp" />
+    <Image Include="..\..\Scmpoo\104.bmp" />
+    <Image Include="..\..\Scmpoo\105.bmp" />
+    <Image Include="..\..\Scmpoo\106.bmp" />
+    <Image Include="..\..\Scmpoo\107.bmp" />
+    <Image Include="..\..\Scmpoo\108.bmp" />
+    <Image Include="..\..\Scmpoo\109.bmp" />
+    <Image Include="..\..\Scmpoo\110.bmp" />
+    <Image Include="..\..\Scmpoo\111.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Scmpoo\106.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\Scmpoo\108.wav" />
+    <Media Include="..\..\Scmpoo\109.wav" />
+    <Media Include="..\..\Scmpoo\110.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Scmpoo\resource.h" />
+  </ItemGroup>
+</Project>

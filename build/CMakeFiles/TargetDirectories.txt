@@ -1,0 +1,3 @@
+C:/Projects/Scmpoo/build/CMakeFiles/ALL_BUILD.dir
+C:/Projects/Scmpoo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Projects/Scmpoo/build/Scmpoo/CMakeFiles/Scmpoo.dir
