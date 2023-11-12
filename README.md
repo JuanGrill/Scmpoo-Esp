@@ -2,7 +2,7 @@
 
 Stray Sheep unofficial spanish translation.
 
-![SheepWindow](https://github.com/JuanGrill/Scmpoo-Esp/assets/70032584/2ab4129b-2bfc-457c-8ed0-c4f3bcda762c)
+![SheepWindow](https://github.com/JuanGrill/Scmpoo-Esp/assets/70032584/674d5a35-d098-4891-bdfc-751d8a6f625f)
 
 
 ## Info
