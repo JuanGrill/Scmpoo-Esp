@@ -1,8 +1,8 @@
-# Install script for directory: C:/Projects/Scmpoo/Scmpoo
+# Install script for directory: C:/Projects/Scmpoo-Esp/Scmpoo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Scmpoo")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Scmpoo-Esp")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
